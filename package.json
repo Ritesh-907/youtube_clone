@@ -1,0 +1,16 @@
+{
+  "name": "youflix",
+  "version": "1.0.0",
+  "description": "A backend for youtube",
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Ritesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
